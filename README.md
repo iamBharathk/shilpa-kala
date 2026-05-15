@@ -1,6 +1,6 @@
 # ShilpaKala – AI Powered Branding App 🎨📱
 
-ShilpaKala is an Android application built using **Kotlin** and **Jetpack Compose** to help Karnataka artisans create professional branded product photos using AI-powered tools, smart image enhancement, and seamless brand integration.
+ShilpaKala is an Android application built using **Kotlin** and **Jetpack Compose** to help Karnataka artisans create professional branded product photos using AI-powered tools, smart image enhancement, and heritage label generation.
 
 The app focuses on improving digital visibility for handmade products through modern Android development and AI integration.
 
@@ -117,13 +117,10 @@ GEMINI_API_KEY=YOUR_API_KEY
 
 # 📸 Screenshots
 
-![Screenshot 1](https://github.com/iamBharathk/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.15.00%20PM.jpeg)
-
-![Screenshot 2](https://github.com/iamBharathk/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.15.26%20PM.jpeg)
-
-![Screenshot 3](https://github.com/iamBharathk/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.15.46%20PM.jpeg)
-
-![Screenshot 4](https://github.com/iamBharathk/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.16.27%20PM.jpeg)
+| | |
+|---|---|
+| ![Screenshot 1](https://github.com/iamBharathk/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.15.00%20PM.jpeg) | ![Screenshot 2](https://github.com/iamBharathk/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.15.26%20PM.jpeg) |
+| ![Screenshot 3](https://github.com/iamBharathk/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.15.46%20PM.jpeg) | ![Screenshot 4](https://github.com/iamBharathk/shilpa-kala/blob/main/app/WhatsApp%20Image%202026-05-04%20at%2011.16.27%20PM.jpeg) |
 
 ---
 
